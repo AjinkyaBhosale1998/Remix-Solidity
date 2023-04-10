@@ -1,0 +1,52 @@
+{
+	"compiler": {
+		"version": "0.8.18+commit.87f61d96"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "compare",
+				"outputs": [],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"comparisonOprator.sol": "comparisonoprator"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"comparisonOprator.sol": {
+			"keccak256": "0xcd5236acf784c661e636796705f72c466e49a653f1e87628fc2e62cb1164ff10",
+			"urls": [
+				"bzz-raw://e498d2b6f67d2e93b382d2fb84007414367cf5727abfad68912c8390b412dfdb",
+				"dweb:/ipfs/QmYqz2K5vKcCfsAGwFWQeoRp3CPGCo8jErnYDYAucuFWp4"
+			]
+		}
+	},
+	"version": 1
+}

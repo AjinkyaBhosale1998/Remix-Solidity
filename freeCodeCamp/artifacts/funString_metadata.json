@@ -1,0 +1,76 @@
+{
+	"compiler": {
+		"version": "0.8.18+commit.87f61d96"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"stateMutability": "nonpayable",
+				"type": "constructor"
+			},
+			{
+				"inputs": [],
+				"name": "get",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "string",
+						"name": "_value",
+						"type": "string"
+					}
+				],
+				"name": "set",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"freeCodeCamp/stringFunction.sol": "funString"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"freeCodeCamp/stringFunction.sol": {
+			"keccak256": "0x40b5e864ef7939bf0d6f7ffea0147d5de1652b0d8150a8c1430dcce68f56307c",
+			"urls": [
+				"bzz-raw://3be98209c4a4f81dcc4fcac3e1d193432e1703a4f4ee38efc469ab825d41ab1e",
+				"dweb:/ipfs/QmTxkRx7b5zDVuaM3LwhMfvmbtGf3UuNtGRZPyCM8TwkBr"
+			]
+		}
+	},
+	"version": 1
+}

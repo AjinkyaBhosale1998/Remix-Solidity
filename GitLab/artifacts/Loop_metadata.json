@@ -1,0 +1,53 @@
+{
+	"compiler": {
+		"version": "0.8.18+commit.87f61d96"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "loop",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"GitLab/forWhile.sol": "Loop"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"GitLab/forWhile.sol": {
+			"keccak256": "0x0e346a13183a482fa2273ecbf571c830f6efad0ed920d5365432a8b021abb17a",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://a1811fe83747d20e52465a4f89bb7d844b51fa8e5b70c77f6f203af2ffd3591e",
+				"dweb:/ipfs/QmabNY4x4fqUeLDKprP3kh6Rv5caV9JTe8LCd7gJsBkSfG"
+			]
+		}
+	},
+	"version": 1
+}
